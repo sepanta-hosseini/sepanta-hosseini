@@ -308,17 +308,6 @@ Real-World AI Applications 🚀
 ```
 
 ---
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sepanta-hosseini/sepanta-hosseini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -328,6 +317,7 @@ Real-World AI Applications 🚀
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <a href="https://www.linkedin.com/in/sepanta-hosseini-56453039/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
 </div>
 
 ---
@@ -347,3 +337,15 @@ Real-World AI Applications 🚀
 ### `🐍` + `🤖` + `🧠` + `💻` = 🚀
 
 </div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sepanta-hosseini/sepanta-hosseini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
