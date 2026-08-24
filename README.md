@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sepanta
 
-### 🤖 Python Developer · AI & Machine Learning Enthusiast · Telegram Bot Developer · Computer Engineering Student
+### 🤖 Python Developer · AI & Machine Learning Enthusiast · Telegram Bot Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Developer;Machine+Learning+Enthusiast;Building+AI+Projects;Telegram+Bot+Developer;Turning+Ideas+Into+Intelligent+Systems" />
 
