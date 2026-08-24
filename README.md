@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/sepanta55">
+<a href="https://github.com/sepanta-hosseini">
 <img src="https://komarev.com/ghpvc/?username=sepanta55&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
 </a>
 
