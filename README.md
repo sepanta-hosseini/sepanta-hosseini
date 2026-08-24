@@ -314,7 +314,7 @@ Real-World AI Applications 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sepanta55/sepanta55/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/sepanta-hosseini/sepanta-hosseini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
