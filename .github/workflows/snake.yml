@@ -1,32 +1,31 @@
-name: Generate Snake
+name: Snake Evolution
 
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
-jobs:
-  generate:
-    permissions:
-      contents: write
+permissions:
+  contents: write
 
+jobs:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: miccy/snake-evolution@v1.3.0
         with:
           github_user_name: sepanta-hosseini
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/snake.svg
+          theme: neon-gamer
+          year: ""
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
-
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
