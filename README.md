@@ -9,11 +9,11 @@
 <br><br>
 
 <a href="https://github.com/sepanta-hosseini">
-<img src="https://komarev.com/ghpvc/?username=sepanta55&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sepanta-hosseini&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
 </a>
 
-<a href="https://github.com/sepanta55?tab=followers">
-<img src="https://img.shields.io/github/followers/sepanta55?style=for-the-badge&color=181717&label=FOLLOWERS" />
+<a href="https://github.com/sepanta-hosseini?tab=followers">
+<img src="https://img.shields.io/github/followers/sepanta-hosseini?style=for-the-badge&color=181717&label=FOLLOWERS" />
 </a>
 
 </div>
@@ -313,7 +313,7 @@ Real-World AI Applications 🚀
 
 <div align="center">
 
-<a href="https://github.com/sepanta55">
+<a href="https://github.com/sepanta-hosseini">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
