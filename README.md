@@ -308,6 +308,17 @@ Real-World AI Applications 🚀
 ```
 
 ---
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sepanta55/sepanta55/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
