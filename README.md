@@ -32,7 +32,7 @@ Sepanta
 └── 💻 Software Development
 ```
 
-I'm a **Python Developer and Computer Engineering student** focused on **Artificial Intelligence and Machine Learning**.
+I'm a **Python Developer and Mechanical Engineering student** focused on **Artificial Intelligence and Machine Learning**.
 
 I enjoy building practical projects with Python, experimenting with machine learning models, developing intelligent applications, and creating useful **Telegram bots**.
 
